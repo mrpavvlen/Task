@@ -1,3 +1,5 @@
+#Скрипт для автоматического создания тестов по географии
+
 import random 
 
 capitals = {'Colorado': 'Denver', 'Connecticut': 'Hartford',
